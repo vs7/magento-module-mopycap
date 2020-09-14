@@ -1,0 +1,4 @@
+app/code/community/VS7/Mopycap                               app/code/community/VS7/Mopycap
+app/design/adminhtml/default/default/template/vs7_mopycap    app/design/adminhtml/default/default/template/vs7_mopycap
+app/etc/modules/VS7_Mopycap.xml                              app/etc/modules/VS7_Mopycap.xml
+app/locale/ru_RU/VS7_Mopycap.csv                             app/locale/ru_RU/VS7_Mopycap.csv
