@@ -1,0 +1,22 @@
+<config>
+    <menu>
+        <catalog>
+            <children>
+                <categories>
+                    <children>
+                        <mopycap translate="title" module="vs7_mopycap">
+                            <title>Move/copy Categories</title>
+                            <action>adminhtml/mopycap/categories</action>
+                            <sort_order>10</sort_order>
+                        </mopycap>
+                        <moveproducts translate="title" module="vs7_mopycap">
+                            <title>Move/copy Products</title>
+                            <action>adminhtml/mopycap/products</action>
+                            <sort_order>20</sort_order>
+                        </moveproducts>
+                    </children>
+                </categories>
+            </children>
+        </catalog>
+    </menu>
+</config>
